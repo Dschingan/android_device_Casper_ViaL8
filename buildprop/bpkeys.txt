@@ -1,0 +1,10 @@
+ro.build.product=htt8735m_6tb_l
+ro.product.board=VIA_L8
+ro.product.brand=Casper
+ro.product.manufacturer=Casper
+ro.product.name=VIA_L8
+ro.product.device=VIA_L8
+ro.product.model=VIA_L8
+ro.mediatek.platform=MT6735
+ro.mediatek.project.path=device/htt/htt8735m_6tb_l
+ro.product.cpu.abi=arm64-v8a
